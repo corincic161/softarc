@@ -30,10 +30,7 @@ stakeholders, and demonstrate incremental value to them.
 OpenUP is organized in 2 different, correlated dimensions: method content and process
 content. The method content is where method elements (namely roles, tasks, artifacts, and
 guidance) are defined, regardless of how they are used in a project lifecycle. The process
-content is where the method elements are applied in a temporal sense. Many different
-lifecycles for different project types can be created from the same set of method elements
-(more details are on Process section below).
-
+content is where the method elements are applied in a temporal sense. 
 
 * Project Life cicle
 
@@ -91,6 +88,25 @@ stakeholders and team, coordinates interactions with the stakeholders, and keeps
 the project team focused on meeting the project objectives.
 
 *Any Role* represents anyone on the team that can perform general tasks.
+
+* Tasks - A task is unit of work a role may be asked to perform. In OpenUP, there are 18 tasks that
+the roles perform either as primary performers or additional performers.
+
+* Artifacts - An artifact is something that is produced, modified, or used by a task. Roles are
+responsible for creating and updating artifacts. Artifacts are subject to version control
+throughout the project lifecycle.
+
+* Process - Reusable method content is created separately from its application in processes. Method
+content provides step-by-step explanations, describing how specific development goals
+are achieved independent of the placement of method elements within a development
+lifecycle.
+
+Processes take these method elements and relate them into semi-ordered sequences that
+are customized to specific types of projects. Method elements are organized into reusable
+pieces of process called capability patterns, providing a consistent development approach
+to common project needs. These patterns are made from organizing tasks (from the
+method content) into activities, grouping them in a sequence that makes sense for the
+particular area where that pattern is applied.
 
 
 
