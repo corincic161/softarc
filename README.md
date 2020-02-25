@@ -7,11 +7,12 @@ development.
 
 
 * OpenUP principles
+
 *Collaborate to align interests and share understanding.* This principle
 promotes practices that foster a healthy team environment, enable collaboration
 and develop a shared understanding of the project.
 
-*Balance competing priorities to maximize stakeholder value. * This principle
+*Balance competing priorities to maximize stakeholder value.* This principle
 promotes practices that allow project participants and stakeholders to develop a
 solution that maximizes stakeholder benefits, and is compliant with constraints
 placed on the project.
@@ -20,7 +21,7 @@ placed on the project.
 This principle promotes practices that allow the team to focus on architecture to
 minimize risks and organize development.
 
-*Evolve to continuously obtain feedback and improve. * This principle promotes
+*Evolve to continuously obtain feedback and improve.* This principle promotes
 practices that allow the team to get early and continuous feedback from
 stakeholders, and demonstrate incremental value to them.
 
@@ -64,24 +65,31 @@ OpenUP targets small and colocated teams interested in agile and iterative devel
 **img
 
 * OpenUP roles:
+
 *Stakeholder* represents interest groups whose needs must be satisfied by the
 project. It is a role that may be played by anyone who is (or potentially will be)
 materially affected by the outcome of the project
+
 *Analyst* represents customer and end-user concerns by gathering input from
 stakeholders to understand the problem to be solved and by capturing and setting
 priorities for requirements.
+
 *Architect* is responsible for designing the software architecture, which includes
 making the key technical decisions that constrain the overall design and
 implementation of the project.
+
 *Developer* is responsible for developing a part of the system, including designing
 it to fit into the architecture, and then implementing, unit-testing, and integrating
 the components that are part of the solution.
+
 *Tester* is responsible for the core activities of the test effort, such as identifying,
 defining, implementing, and conducting the necessary tests, as well as logging the
 outcomes of the testing and analyzing the results.
+
 *Project Manager* leads the planning of the project in collaboration with
 stakeholders and team, coordinates interactions with the stakeholders, and keeps
 the project team focused on meeting the project objectives.
+
 *Any Role* represents anyone on the team that can perform general tasks.
 
 
