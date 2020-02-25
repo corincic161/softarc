@@ -10,16 +10,20 @@ development.
 *Collaborate to align interests and share understanding.* This principle
 promotes practices that foster a healthy team environment, enable collaboration
 and develop a shared understanding of the project.
+
 *Balance competing priorities to maximize stakeholder value. * This principle
 promotes practices that allow project participants and stakeholders to develop a
 solution that maximizes stakeholder benefits, and is compliant with constraints
 placed on the project.
+
 *Focus on the architecture early to minimize risks and organize development.*
 This principle promotes practices that allow the team to focus on architecture to
 minimize risks and organize development.
+
 *Evolve to continuously obtain feedback and improve. * This principle promotes
 practices that allow the team to get early and continuous feedback from
 stakeholders, and demonstrate incremental value to them.
+
 
 * How OpenUP is organized
 OpenUP is organized in 2 different, correlated dimensions: method content and process
@@ -29,7 +33,9 @@ content is where the method elements are applied in a temporal sense. Many diffe
 lifecycles for different project types can be created from the same set of method elements
 (more details are on Process section below).
 
+
 * Project Life cicle
+
 Uses an iterative, incremental lifecycle. 
 Proper application of this lifecycle directly addresses the first core principle (Evolve).
 The lifecycle is divided into 4 phases, each with a particular purpose and milestone criteria to exit the phase:  
@@ -44,14 +50,39 @@ The lifecycle is divided into 4 phases, each with a particular purpose and miles
 
 OpenUP targets small and colocated teams interested in agile and iterative development. Small projects constitute teams of 3 to 6 people and involve 3 to 6 months of development. 
 
+**img
+
 * Iteration Lifecycle: 
-** Phases are further decomposed into a number of iterations. 
 
-** At the end of each iteration a verified build of the system increment is available.  
+1. Phases are further decomposed into a number of iterations. 
 
-** Each iteration has its own lifecycle, beginning with planning and ending in a stable system increment, Iteration Review (did we achieve the iteration objectives) and a Retrospective (is there a better process).  
+2. At the end of each iteration a verified build of the system increment is available.  
 
-** Progress on completion of micro-increments is monitored daily via “Scrums” and the iteration burndown chart to provide timely feedback. 
+3. Each iteration has its own lifecycle, beginning with planning and ending in a stable system increment, Iteration Review (did we achieve the iteration objectives) and a Retrospective (is there a better process).  
+
+4. Progress on completion of micro-increments is monitored daily via “Scrums” and the iteration burndown chart to provide timely feedback. 
+**img
+
+* OpenUP roles:
+*Stakeholder* represents interest groups whose needs must be satisfied by the
+project. It is a role that may be played by anyone who is (or potentially will be)
+materially affected by the outcome of the project
+*Analyst* represents customer and end-user concerns by gathering input from
+stakeholders to understand the problem to be solved and by capturing and setting
+priorities for requirements.
+*Architect* is responsible for designing the software architecture, which includes
+making the key technical decisions that constrain the overall design and
+implementation of the project.
+*Developer* is responsible for developing a part of the system, including designing
+it to fit into the architecture, and then implementing, unit-testing, and integrating
+the components that are part of the solution.
+*Tester* is responsible for the core activities of the test effort, such as identifying,
+defining, implementing, and conducting the necessary tests, as well as logging the
+outcomes of the testing and analyzing the results.
+*Project Manager* leads the planning of the project in collaboration with
+stakeholders and team, coordinates interactions with the stakeholders, and keeps
+the project team focused on meeting the project objectives.
+*Any Role* represents anyone on the team that can perform general tasks.
 
 
 
