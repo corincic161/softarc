@@ -96,7 +96,9 @@ the roles perform either as primary performers or additional performers.
 responsible for creating and updating artifacts. Artifacts are subject to version control
 throughout the project lifecycle.
 
-* Process - Reusable method content is created separately from its application in processes. Method
+* Process 
+
+Reusable method content is created separately from its application in processes. Method
 content provides step-by-step explanations, describing how specific development goals
 are achieved independent of the placement of method elements within a development
 lifecycle.
